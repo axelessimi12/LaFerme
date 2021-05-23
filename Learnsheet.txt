@@ -1,0 +1,164 @@
+Day 1: 16/04/2020 19h35
+
+    STEP 1:
+        *Complete the CRUD
+
+    Notes:
+        *I can't understand sh*t, I'm actually really tired, will continue tomorow.
+
+WORKTIME: 25M
+
+Stopping time: 16/04/2020 20h14
+
+
+
+Day 2: 17/04/2020 12h43
+
+    STEP 1 IN PROGRESS
+
+    Notes:
+        *Going through an Oracle Database crash course.
+        *Created my own folder, to organise, my own CRUD work.
+        *Drawed my draft sheet for my main interfaces.
+        *The core window's drawn.
+
+WORKTIME: 3H53M
+
+Stopping time: 17/04/2020 20h35
+
+
+
+Day 3: 18/04/2020 12h30
+
+    STEP 1 IN PROGRESS
+
+    Notes:
+        *Created the best ADD interface ever LOL, now I need to implement the changes to the Database, even though this is going to be ( I think) an easy part
+        *I think that'll be all for today.
+
+WORKTIME: 4H13M
+
+Stopping time: 18/04/2020 17h38
+
+
+
+Day 4: 19/04/2020 12h15
+
+    STEP 1 IN PROGRESS
+
+    Notes:
+        *Made the CRD part of the CRUD, just need to make my setId() fction better.
+        *Still need to fix the display of the animals and the delete part.
+
+WORKTIME: 4H00M
+
+Stopping time: 19H25
+
+
+
+Day 5: 20/04/2020 20h40
+
+    STEP 1 IN PROGRESS
+
+    Notes:
+        *Display fixed and dynamic.
+	*Still need to add the delete button and the update function.
+
+WORKTIME: 2H25M
+
+Stopping time: 20/04/2020 23h05
+
+
+
+Day 6: 21/04/2020 20h20
+
+    STEP 1 IN PROGRESS
+
+    Notes:
+        *0 progress
+
+WORKTIME: 1H00M
+
+Stopping time: 21/04/2020 23h05
+
+
+
+Day 7: 25/04/2020 13h13
+
+    STEP 1 IN PROGRESS
+
+    STEP 1 Completed at 19h00
+
+    Notes:
+        *I Fixed the layout
+        *Added A DELETE BUTTON
+        *Made my Table Dynamic
+        *Added an UPDATE BUTTON
+        *Fixed the Auto Increment on my ID
+        *ALL THE CRUD IS WORKING
+
+WORKTIME: 5H10M
+
+Stopping time: 25/04/2020 19h07
+
+
+
+Day 8: 27/04/2020 12h38
+
+    STEP 2:
+        *Implementing mailing into my project.
+
+    STEP 2 Completed at 16h00
+
+    STEP 3:
+        *Implementing "export to PDF" into my project.
+
+    STEP 3 Completed at 18h45
+
+    Notes:
+        *This line of code is VITAL for the SMTP mailing to work:
+            -qDebug()<<QSslSocket::supportsSsl() << QSslSocket::sslLibraryBuildVersionString();
+        *Succesfully Created the MAILING FUNCTION
+        *Succesfully Created the EXPORT TO PDF Function
+
+WORKTIME: 5H26M
+
+Stopping time: 27/04/2020 18h45
+
+
+
+Day 9: 28/04/2020 12h33
+
+    STEP 4:
+        *Create the CRUD for the "Shelter" Part of my PROJECT
+
+    STEP 4 Completed at 15h30
+
+    Notes:
+        *My part of the project is complete, the last thing to do is to SIGN IN TO TRELLO
+
+WORKTIME: 3H41M
+
+Stopping time: 28/04/2020 16h14
+
+
+
+Day 10: 30/04/2020 12h59
+
+    STEP 5:
+        *Create a "Sort" Function on my Shelter and Animals tables.
+
+    STEP 5 Completed at 13h18
+
+    STEP 6:
+        *Take screenshots of all my work and send it to my professor.
+
+    STEP 6 Completed at 14h21
+
+
+    Notes:
+        *
+
+WORKTIME: 1H22M
+
+Stopping time: 30/04/2020 14h22
